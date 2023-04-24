@@ -4,7 +4,7 @@ using namespace std;
 int main() 
 {
 	setlocale(LC_ALL, "russian");
-	string cities[10] = { "Moscow", "New York", "Amsterdam", "Paris", "Berlin", "Athens", "Beijing", "Ankara", "Sydney", "Almaty" };
+	string cities[11] = { "Moscow", "New York", "Amsterdam", "Paris", "Berlin", "Athens", "Beijing", "Ankara", "Sydney", "Almaty", "Orel" };
 	string city1, city2;
 	bool flag1 = false, flag2 = false;
 	for (int i = 0; i < 10; i++)
