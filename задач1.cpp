@@ -26,7 +26,7 @@ int main()
 	if (flag1 && flag2) 
 	{
 		swap(city1, city2);
-		cout << "Поменянные местами города:" << city1 << ", " << city2 << endl;
+		cout << "Города, поменянные местами:" << city1 << ", " << city2 << endl;
 	}
 	return 0;
 }
